@@ -1,3 +1,7 @@
 payload:
+    - 'augmentcode.com' 
+    - 'claude.com'
+    - 'claude.ai'
     - '+.augmentcode.com'
-    - '+.claude.com/'
+    - '+.claude.com'
+    - '+.claude.ai'
